@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m Hannah! I teach math, computer science, and robotics at the high school level.
+🤖 I coach a STEM robotics team and develop game design and programming courses.
+👀 I’m interested in Python, C#, Unity, robotics, automation, and curriculum development.
+🌱 I’m currently learning C# game development with Unity and exploring AI in education.
+💻 I have built robotics challenges, coding curriculums, and interactive STEM projects for my students.
+🚧 I am currently developing a video game design course and a real-world robotics project.
+📫 You can reach me through email at terkperhannah@gmail.com
 
 <!--
 **terkperhannah/terkperhannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
