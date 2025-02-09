@@ -1,5 +1,6 @@
-👋 Hi, I’m Hannah! I teach math, computer science, and robotics at the high school level.
-- 🤖 I coach a STEM robotics team and develop game design and programming courses.
+👋 Hi, I’m Hannah! 
+- I teach math, computer science, and robotics at the secondary level.
+- 🤖 I coach a robotics team and develop game design and programming courses.
 - 👀 I’m interested in Python, C#, Unity, robotics, automation, and curriculum development.
 - 🌱 I’m currently learning C# game development with Unity and exploring AI in education.
 - 💻 I have built robotics challenges, coding curriculums, and interactive STEM projects for my students.
